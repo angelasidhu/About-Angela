@@ -13,7 +13,7 @@ struct ContentView: View {
     var body: some View {
        
         ZStack {
-            Color(UIColor(red: 0.38, green: 0.71, blue: 0.80, alpha: 1.00))
+            Color(UIColor(red: 0.37, green: 0.71, blue: 0.80, alpha: 1.00))
                 .ignoresSafeArea()
                 .cornerRadius(10.0)
             
